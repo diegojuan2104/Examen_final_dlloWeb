@@ -6,7 +6,7 @@ class servicioPG {
 			user: 'postgres',
 			host: 'localhost',
 			database: 'el-taller',
-			password: 'admin',
+			password: '',
 			port: 5432,
 		});
 
